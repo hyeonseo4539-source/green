@@ -1,4 +1,2 @@
 # greenway
 # applepie
-# blue
-## black
