@@ -1,1 +1,1 @@
-# Gintama
+# Gin
