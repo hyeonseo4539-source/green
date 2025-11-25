@@ -1,1 +1,1 @@
-# Gintoki
+# Gin
