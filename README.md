@@ -1,1 +1,1 @@
-# Ginta
+# Gin
