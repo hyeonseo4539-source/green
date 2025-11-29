@@ -1,1 +1,1 @@
-# Gint
+# Ginta
