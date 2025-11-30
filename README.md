@@ -1,1 +1,1 @@
-# Ginta
+# Gintama
